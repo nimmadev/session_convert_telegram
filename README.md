@@ -9,3 +9,7 @@ This project will help you convert your existing Python Telegram session to anot
 Link : https://t.me/PAMSessionConverterbot
 
 Telegram username : @PAMSessionConverterbot
+
+## bulk session converter + source code
+
+Contact @r5pro on telegram 
